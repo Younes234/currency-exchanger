@@ -33,7 +33,7 @@ public class CurrencyConverter {
                 finished = true;
                 break;
             default:
-                System.out.println("Sorry, that is not a valid option");
+                System.out.println("Sorry, that is not a valid optin");
             }
         }
         System.out.println("Exiting the program");
